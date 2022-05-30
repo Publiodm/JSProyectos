@@ -1,0 +1,19 @@
+body {
+    color:rgb(9, 9, 182);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    color: burlywood;
+}
+
+div {
+    background-color: black;
+    padding: 40px;
+}
+p {
+    color:#ccc;
+}
+p:hover{
+    color: rgb(129, 28, 48);
+}
