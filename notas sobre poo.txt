@@ -1,0 +1,10 @@
+Caracterísitica de la poo
+-Abstracción
+-Modularidad
+-Encapsulamiento
+-Polimorfismo
+
+Otros consceptos de la POO
+-Herencia (extends -- super).
+-Métodos estáticos.(static)
+-Métodos accesores (getters y setters).

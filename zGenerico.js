@@ -7,15 +7,16 @@ let pc = {
     hd: "1TB",
 };
 
+alert("Hola hola");
 document.write(Object.keys(pc) + "<br>");
 delete pc.ram;
 
 document.write(Object.keys(pc) + "<br>");
-
+console.log("texto  ");
 
 
 /*
-alert("Hola hola");
+
 
 let materias = {
     fisica: ["Perez", "pedro", "pepito", "cofla", "maria"],

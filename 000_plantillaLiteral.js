@@ -9,3 +9,4 @@ document.write( typeof (+cadena) + "<br>");
 document.write( typeof (Number(cadena)) + "<br>" );
 document.write( typeof (parseInt(cadena)) + "<br>" );
 
+alert ("hola , hola");

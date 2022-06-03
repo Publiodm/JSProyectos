@@ -11,7 +11,7 @@ numAleatorio = () => Math.floor(Math.random() * 10);
 alert("hola hola");
 
 
-for (i = 0; i < 10; i++) {
+for (i = 0; i < 100; i++) {
 
     document.write(` Numero aleatorio   ${i}:   ${numAleatorio()} <br>`);
 
