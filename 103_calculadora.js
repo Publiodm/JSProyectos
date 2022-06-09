@@ -36,7 +36,13 @@ raizCubica(num){
 const calculadora = new Calculadora();
 
 alert("¿Que operación deseas realizar?");
-let operacion = prompt(`1: suma, 2: resta,  3: división,  4: multiplicación,  5: potenciación,  6: raíz cuadrada,  7: raíz cúbica`);
+let operacion = prompt(`1: suma, 
+2: resta,  
+3: división,  
+4: multiplicación,  
+5: potenciación,  
+6: raíz cuadrada,  
+7: raíz cúbica`);
 
 if (operacion == 1) {
 	let numero1 = prompt("primer número para sumar");

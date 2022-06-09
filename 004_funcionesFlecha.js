@@ -9,12 +9,12 @@ funciones
 
 
 
-//función tradicional
+//función tradicional ----- función declarada
 function saludar01(nombre) {
     let frase = ` ¡ Hola ${nombre}! ¿Cómo estás? <br> `;
     document.write(frase);
 }
-//funciones anónimas
+//funciones anónimas --- función expresada 
 const saludar02 = function (nombre) {
     let frase = ` ¡ Hola ${nombre}! ¿Cómo estás? <br> `;
     document.write(frase);
